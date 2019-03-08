@@ -1,4 +1,4 @@
-Below are a list of resources to start building with AWS.
+Below are a list of resources to get started with AWS.
 
 ## AWS Guides
   * [Creating an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
