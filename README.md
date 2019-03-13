@@ -3,6 +3,7 @@ Below are a list of resources to get started with AWS.
 ## AWS Guides
   * [Creating an AWS Account](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/)
   * [Getting Started with AWS](https://aws.amazon.com/getting-started/)
+  * [AWS Developer Center](https://aws.amazon.com/developer/)
   
 ## Community Guides
   * [Open Guide to AWS](https://github.com/open-guides/og-aws)
