@@ -18,4 +18,5 @@ Below are a list of resources to get started with AWS.
   * [AWS Documentation](https://docs.aws.amazon.com/index.html#lang/en_us)
   * [AWS General Reference](https://docs.aws.amazon.com/general/latest/gr/Welcome.html)
   * [AWS Samples on Github](https://github.com/aws-samples)
+  * [AWS Labs on Github](https://github.com/awslabs)
   * [AWS Glossary](https://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
